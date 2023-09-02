@@ -1,0 +1,15 @@
+----------- # Classes for Databases # ----------
+DailyWorkoutDetails.java - used to store day to day exercises performed by user
+DatabaseDetails.java - used to store names of tables belonging to database and other details such as version and name
+Exercises.java - used to store details of exercises
+HealthDetails.java - used to store health details of user
+PersonalDetails.java - used to store personal details of user
+Workouts.java - used to store details of workouts
+WorkoutsExercises.java - used to store exercises belonging to each workout
+DbHelper.java - used to connect to database and perform different commands
+
+----------- # Activities for App # ----------
+MainActivity - activity opened by clicking on "Me" button
+ProfileActivity - used to view profile of person 
+EditPersonalDetails - used for editing personal data of person
+Remainder - used to create remainder
